@@ -1,0 +1,18 @@
+# Python 缓存目录
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 临时文件（编辑器生成）
+*.swp
+*.bak
+*.tmp
+
+# VS Code 项目文件（如果你用它）
+.vscode/
+
+# 虚拟环境（你将来用到再生成）
+env/
+venv/
